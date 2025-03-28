@@ -18,7 +18,7 @@ class Moritz:
         self.tools = ["Python", "SQL", "Tableau", "Git", "R", "All you can do in Excel, yes even VBA"]
         
     def current_focus(self):
-        return "Building ML models that detect patterns in financial data"
+        return "Studying Econometrics and Data Science at the Barcelona School of Economics"
 ```
 
 ## 🔭 What I've Been Working On
