@@ -10,7 +10,8 @@ class Moritz:
         self.name = "Moritz Peist"
         self.education = ["Barcelona School of Economics (Data Science)", 
                          "TU Berlin (Information Systems)", 
-                         "EDHEC & HWR Berlin (Finance)"]
+                         "EDHEC & HWR Berlin (Finance)",
+                         "HWR Berlin (International Business Management)"]
         self.interests = ["Financial Technology", "Development Economics", 
                          "Machine Learning", "Network Analysis", "Data Visualization"]
         self.languages = {"German": "native", "English": "fluent", "French": "proficient", "Spanish": "basic"}
@@ -39,6 +40,20 @@ class Moritz:
 - Geospatial data science applications in economics
 - Deep learning for time series forecasting
 
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoft&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+## 📂 Featured Projects
+
+[![ChatGPT Impact Analysis](https://img.shields.io/badge/NLP-ChatGPT%20Impact%20on%20Stack%20Overflow-5DADE2?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/m9o8/bse_tm_final)
+[![Geospatial Analysis](https://img.shields.io/badge/GIS-Geospatial%20Data%20Science-2ECC71?style=for-the-badge&logo=qgis&logoColor=white)](https://github.com/m9o8/bse_geospatial)
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-p)
@@ -46,4 +61,7 @@ class Moritz:
 ---
 
 ### 📊 GitHub Stats:
-![Moritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=m9o8&show_icons=true&theme=default)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=m9o8&show_icons=true&theme=default" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m9o8&layout=compact" />
+</div>
