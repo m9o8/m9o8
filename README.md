@@ -1,4 +1,5 @@
-# Hi there, I'm Moritz 👋
+# ![Hi there, Im Moritz SVG](./imgs/hi_there.svg)
+
 
 ## 🌐 Data Scientist with a Financial Edge
 
